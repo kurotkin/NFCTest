@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCTest сканер</string>
+    <string name="serial_title">Серийные номера:</string>
+</resources>
